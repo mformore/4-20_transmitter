@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map For transmitter
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+value	KEYWORD1
+transmitter	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getMIN	KEYWORD2
+getMax	KEYWORD2
+getVal	KEYWORD2
+updateVal	KEYWORD2
+set	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SPI_CS	LITERAL1
+SPI_SDI	LITERAL1
+SPI_SCK	LITERAL1
+CHANNEL_1	LITERAL1
+CHANNEL_2	LITERAL1
+DAC_MODE	LITERAL1
+PWM_MODE	LITERAL1
+PWM_CH1_PIN	LITERAL1
+PWM_CH2_PIN	LITERAL1
+PWM_RES	LITERAL1
+DAC_RES 4095	LITERAL1

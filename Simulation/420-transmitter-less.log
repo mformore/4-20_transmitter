@@ -1,0 +1,2915 @@
+Circuit: * C:\users\maciej\Desktop\420-transmitter\420-transmitter\Simulation\420-transmitter-less.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 73.6742%
+Source Step = 75.5682%
+Source Step = 77.4621%
+Source Step = 79.3561%
+Source Step = 81.25%
+vernier = 0.09375
+Source Step = 83.5227%
+Source Step = 86.3636%
+Source Step = 89.2045%
+Source Step = 92.0455%
+Source Step = 94.8864%
+vernier = 0.140625
+Source Step = 98.1534%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 69.7058%
+Source Step = 69.7354%
+Source Step = 69.765%
+Source Step = 69.7946%
+Source Step = 69.8242%
+vernier = 0.00146484
+Source Step = 69.8568%
+Source Step = 69.9012%
+Source Step = 69.9455%
+Source Step = 69.9899%
+Source Step = 70.0343%
+vernier = 0.00219727
+Source Step = 70.0809%
+Source Step = 70.1475%
+Source Step = 70.2141%
+Source Step = 70.2807%
+Source Step = 70.3473%
+Source Step = 70.4139%
+vernier = 0.0032959
+Source Step = 70.5137%
+Source Step = 70.6136%
+Source Step = 70.7135%
+Source Step = 70.8134%
+Source Step = 70.9132%
+vernier = 0.00494385
+Source Step = 71.0581%
+Source Step = 71.2079%
+Source Step = 71.3577%
+Source Step = 71.5075%
+Source Step = 71.6573%
+vernier = 0.00741577
+Source Step = 71.867%
+Source Step = 72.0918%
+Source Step = 72.3165%
+Source Step = 72.5412%
+Source Step = 72.7659%
+vernier = 0.0111237
+Source Step = 73.0693%
+Source Step = 73.4064%
+Source Step = 73.7435%
+Source Step = 74.0805%
+Source Step = 74.4176%
+vernier = 0.0166855
+Source Step = 74.8558%
+Source Step = 75.3614%
+Source Step = 75.8671%
+Source Step = 76.3727%
+Source Step = 76.8783%
+vernier = 0.0250282
+Source Step = 77.5103%
+Source Step = 78.2688%
+Source Step = 79.0272%
+Source Step = 79.7856%
+Source Step = 80.5441%
+vernier = 0.0375423
+Source Step = 81.4542%
+Source Step = 82.5918%
+Source Step = 83.7295%
+Source Step = 84.8671%
+Source Step = 86.0048%
+vernier = 0.0563135
+Source Step = 87.3131%
+Source Step = 89.0195%
+Source Step = 90.726%
+Source Step = 92.4325%
+Source Step = 94.1389%
+vernier = 0.0844703
+Source Step = 96.0161%
+Source Step = 98.5758%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 96.9815%
+Source Step = 97.0111%
+Source Step = 97.0407%
+Source Step = 97.0703%
+Source Step = 97.0999%
+vernier = 0.00146484
+Source Step = 97.1325%
+Source Step = 97.1768%
+Source Step = 97.2212%
+Source Step = 97.2656%
+Source Step = 97.31%
+vernier = 0.00219727
+Source Step = 97.3566%
+Source Step = 97.4232%
+Source Step = 97.4898%
+Source Step = 97.5564%
+Source Step = 97.623%
+Source Step = 97.6895%
+vernier = 0.0032959
+Source Step = 97.7894%
+Source Step = 97.8893%
+Source Step = 97.9892%
+Source Step = 98.089%
+Source Step = 98.1889%
+vernier = 0.00494385
+Source Step = 98.3337%
+Source Step = 98.4836%
+Source Step = 98.6334%
+Source Step = 98.7832%
+Source Step = 98.933%
+vernier = 0.00741577
+Source Step = 99.1427%
+Source Step = 99.3675%
+Source Step = 99.5922%
+Source Step = 99.8169%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 92.6136%
+Source Step = 94.5076%
+Source Step = 96.4015%
+Source Step = 98.2955%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 98.4848%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+vernier = 0.00146484
+Source Step = 91.0778%
+Source Step = 91.1222%
+Source Step = 91.1665%
+Source Step = 91.2109%
+Source Step = 91.2553%
+vernier = 0.00219727
+Source Step = 91.3019%
+Source Step = 91.3685%
+Source Step = 91.4351%
+Source Step = 91.5017%
+Source Step = 91.5683%
+Source Step = 91.6349%
+vernier = 0.0032959
+Source Step = 91.7347%
+Source Step = 91.8346%
+Source Step = 91.9345%
+Source Step = 92.0344%
+Source Step = 92.1342%
+vernier = 0.00494385
+Source Step = 92.2791%
+Source Step = 92.4289%
+Source Step = 92.5787%
+Source Step = 92.7285%
+Source Step = 92.8783%
+vernier = 0.00741577
+Source Step = 93.088%
+Source Step = 93.3128%
+Source Step = 93.5375%
+Source Step = 93.7622%
+Source Step = 93.9869%
+vernier = 0.0111237
+Source Step = 94.2903%
+Source Step = 94.6274%
+Source Step = 94.9645%
+Source Step = 95.3015%
+Source Step = 95.6386%
+vernier = 0.0166855
+Source Step = 96.0768%
+Source Step = 96.5824%
+Source Step = 97.0881%
+Source Step = 97.5937%
+Source Step = 98.0993%
+vernier = 0.0250282
+Source Step = 98.7313%
+Source Step = 99.4898%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+vernier = 0.25
+Source Step = 60.6238%
+Source Step = 60.6534%
+Source Step = 60.683%
+Source Step = 60.7126%
+Source Step = 60.7422%
+vernier = 0.00146484
+Source Step = 60.7777%
+Source Step = 60.8221%
+Source Step = 60.8665%
+Source Step = 60.9109%
+Source Step = 60.9553%
+vernier = 0.00219727
+Source Step = 61.0063%
+Source Step = 61.0729%
+Source Step = 61.1395%
+Source Step = 61.2061%
+Source Step = 61.2726%
+vernier = 0.0032959
+Source Step = 61.3459%
+Source Step = 61.4458%
+Source Step = 61.5456%
+Source Step = 61.6455%
+Source Step = 61.7454%
+vernier = 0.00494385
+Source Step = 61.8503%
+Source Step = 62.0001%
+Source Step = 62.1499%
+Source Step = 62.2997%
+Source Step = 62.4495%
+Source Step = 62.5993%
+vernier = 0.00741577
+Source Step = 62.824%
+Source Step = 63.0488%
+Source Step = 63.2735%
+Source Step = 63.4982%
+Source Step = 63.7229%
+vernier = 0.0111237
+Source Step = 64.0488%
+Source Step = 64.3858%
+Source Step = 64.7229%
+Source Step = 65.06%
+Source Step = 65.3971%
+vernier = 0.0166855
+Source Step = 65.869%
+Source Step = 66.3746%
+Source Step = 66.8802%
+Source Step = 67.3859%
+Source Step = 67.8915%
+vernier = 0.0250282
+Source Step = 68.5741%
+Source Step = 69.3325%
+Source Step = 70.0909%
+Source Step = 70.8494%
+Source Step = 71.6078%
+vernier = 0.0375423
+Source Step = 72.5938%
+Source Step = 73.7314%
+Source Step = 74.8691%
+Source Step = 76.0067%
+Source Step = 77.1443%
+vernier = 0.0563135
+Source Step = 78.5664%
+Source Step = 80.2729%
+Source Step = 81.9793%
+Source Step = 83.6858%
+Source Step = 85.3923%
+vernier = 0.0844703
+Source Step = 87.44%
+Source Step = 89.9998%
+Source Step = 92.5595%
+Source Step = 95.1192%
+Source Step = 97.6789%
+vernier = 0.126705
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+vernier = 0.00146484
+Source Step = 91.0807%
+Source Step = 91.1251%
+Source Step = 91.1695%
+Source Step = 91.2139%
+Source Step = 91.2583%
+vernier = 0.00219727
+Source Step = 91.3093%
+Source Step = 91.3759%
+Source Step = 91.4425%
+Source Step = 91.5091%
+Source Step = 91.5757%
+vernier = 0.0032959
+Source Step = 91.6489%
+Source Step = 91.7488%
+Source Step = 91.8487%
+Source Step = 91.9485%
+Source Step = 92.0484%
+vernier = 0.00494385
+Source Step = 92.1533%
+Source Step = 92.3031%
+Source Step = 92.4529%
+Source Step = 92.6027%
+Source Step = 92.7525%
+Source Step = 92.9024%
+vernier = 0.00741577
+Source Step = 93.1271%
+Source Step = 93.3518%
+Source Step = 93.5765%
+Source Step = 93.8012%
+Source Step = 94.026%
+vernier = 0.0111237
+Source Step = 94.3518%
+Source Step = 94.6889%
+Source Step = 95.026%
+Source Step = 95.363%
+Source Step = 95.7001%
+vernier = 0.0166855
+Source Step = 96.172%
+Source Step = 96.6777%
+Source Step = 97.1833%
+Source Step = 97.6889%
+Source Step = 98.1945%
+vernier = 0.0250282
+Source Step = 98.8771%
+Source Step = 99.6355%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 58.3333%
+vernier = 0.0625
+Source Step = 57.5965%
+Source Step = 57.6261%
+Source Step = 57.6557%
+Source Step = 57.6853%
+Source Step = 57.7148%
+vernier = 0.00146484
+Source Step = 57.7518%
+Source Step = 57.7962%
+Source Step = 57.8406%
+Source Step = 57.885%
+Source Step = 57.9294%
+vernier = 0.00219727
+Source Step = 57.9827%
+Source Step = 58.0492%
+Source Step = 58.1158%
+Source Step = 58.1824%
+Source Step = 58.249%
+vernier = 0.0032959
+Source Step = 58.3256%
+Source Step = 58.4254%
+Source Step = 58.5253%
+Source Step = 58.6252%
+Source Step = 58.7251%
+vernier = 0.00494385
+Source Step = 58.8349%
+Source Step = 58.9847%
+Source Step = 59.1346%
+Source Step = 59.2844%
+Source Step = 59.4342%
+vernier = 0.00741577
+Source Step = 59.5915%
+Source Step = 59.8162%
+Source Step = 60.0409%
+Source Step = 60.2657%
+Source Step = 60.4904%
+Source Step = 60.7151%
+vernier = 0.0111237
+Source Step = 61.0522%
+Source Step = 61.3893%
+Source Step = 61.7263%
+Source Step = 62.0634%
+Source Step = 62.4005%
+vernier = 0.0166855
+Source Step = 62.8893%
+Source Step = 63.3949%
+Source Step = 63.9005%
+Source Step = 64.4061%
+Source Step = 64.9117%
+vernier = 0.0250282
+Source Step = 65.6196%
+Source Step = 66.378%
+Source Step = 67.1365%
+Source Step = 67.8949%
+Source Step = 68.6533%
+vernier = 0.0375423
+Source Step = 69.6772%
+Source Step = 70.8149%
+Source Step = 71.9525%
+Source Step = 73.0902%
+Source Step = 74.2278%
+vernier = 0.0563135
+Source Step = 75.7067%
+Source Step = 77.4132%
+Source Step = 79.1197%
+Source Step = 80.8262%
+Source Step = 82.5326%
+vernier = 0.0844703
+Source Step = 84.6657%
+Source Step = 87.2254%
+Source Step = 89.7851%
+Source Step = 92.3448%
+Source Step = 94.9045%
+vernier = 0.126705
+Source Step = 97.9762%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 54.7348%
+vernier = 0.015625
+Source Step = 54.5691%
+Source Step = 54.5987%
+Source Step = 54.6283%
+Source Step = 54.6579%
+Source Step = 54.6875%
+vernier = 0.00146484
+Source Step = 54.726%
+Source Step = 54.7704%
+Source Step = 54.8147%
+Source Step = 54.8591%
+Source Step = 54.9035%
+vernier = 0.00219727
+Source Step = 54.959%
+Source Step = 55.0256%
+Source Step = 55.0922%
+Source Step = 55.1588%
+Source Step = 55.2253%
+vernier = 0.0032959
+Source Step = 55.3052%
+Source Step = 55.4051%
+Source Step = 55.505%
+Source Step = 55.6049%
+Source Step = 55.7048%
+vernier = 0.00494385
+Source Step = 55.8196%
+Source Step = 55.9694%
+Source Step = 56.1192%
+Source Step = 56.2691%
+Source Step = 56.4189%
+vernier = 0.00741577
+Source Step = 56.5837%
+Source Step = 56.8084%
+Source Step = 57.0331%
+Source Step = 57.2578%
+Source Step = 57.4825%
+vernier = 0.0111237
+Source Step = 57.7185%
+Source Step = 58.0556%
+Source Step = 58.3927%
+Source Step = 58.7297%
+Source Step = 59.0668%
+Source Step = 59.4039%
+vernier = 0.0166855
+Source Step = 59.9095%
+Source Step = 60.4151%
+Source Step = 60.9208%
+Source Step = 61.4264%
+Source Step = 61.932%
+vernier = 0.0250282
+Source Step = 62.6652%
+Source Step = 63.4236%
+Source Step = 64.182%
+Source Step = 64.9404%
+Source Step = 65.6989%
+vernier = 0.0375423
+Source Step = 66.7607%
+Source Step = 67.8983%
+Source Step = 69.036%
+Source Step = 70.1736%
+Source Step = 71.3113%
+vernier = 0.0563135
+Source Step = 72.8471%
+Source Step = 74.5536%
+Source Step = 76.26%
+Source Step = 77.9665%
+Source Step = 79.673%
+vernier = 0.0844703
+Source Step = 81.8914%
+Source Step = 84.4511%
+Source Step = 87.0108%
+Source Step = 89.5705%
+Source Step = 92.1302%
+vernier = 0.126705
+Source Step = 95.3298%
+Source Step = 99.1694%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 56.0606%
+Source Step = 63.6364%
+Source Step = 71.2121%
+Source Step = 78.7879%
+Source Step = 86.3636%
+vernier = 0.375
+Source Step = 94.3182%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+vernier = 0.00146484
+Source Step = 91.0778%
+Source Step = 91.1222%
+Source Step = 91.1665%
+Source Step = 91.2109%
+Source Step = 91.2553%
+vernier = 0.00219727
+Source Step = 91.3019%
+Source Step = 91.3685%
+Source Step = 91.4351%
+Source Step = 91.5017%
+Source Step = 91.5683%
+Source Step = 91.6349%
+vernier = 0.0032959
+Source Step = 91.7347%
+Source Step = 91.8346%
+Source Step = 91.9345%
+Source Step = 92.0344%
+Source Step = 92.1342%
+vernier = 0.00494385
+Source Step = 92.2791%
+Source Step = 92.4289%
+Source Step = 92.5787%
+Source Step = 92.7285%
+Source Step = 92.8783%
+vernier = 0.00741577
+Source Step = 93.088%
+Source Step = 93.3128%
+Source Step = 93.5375%
+Source Step = 93.7622%
+Source Step = 93.9869%
+vernier = 0.0111237
+Source Step = 94.2903%
+Source Step = 94.6274%
+Source Step = 94.9645%
+Source Step = 95.3015%
+Source Step = 95.6386%
+vernier = 0.0166855
+Source Step = 96.0768%
+Source Step = 96.5824%
+Source Step = 97.0881%
+Source Step = 97.5937%
+Source Step = 98.0993%
+vernier = 0.0250282
+Source Step = 98.7313%
+Source Step = 99.4898%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 51.8939%
+Source Step = 53.7879%
+Source Step = 55.6818%
+Source Step = 57.5758%
+Source Step = 59.4697%
+vernier = 0.09375
+Source Step = 61.4583%
+Source Step = 64.2992%
+Source Step = 67.1402%
+Source Step = 69.9811%
+Source Step = 72.822%
+Source Step = 75.6629%
+vernier = 0.140625
+Source Step = 79.9242%
+Source Step = 84.1856%
+Source Step = 88.447%
+Source Step = 92.7083%
+Source Step = 96.9697%
+vernier = 0.210938
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+vernier = 0.00146484
+Source Step = 91.0778%
+Source Step = 91.1222%
+Source Step = 91.1665%
+Source Step = 91.2109%
+Source Step = 91.2553%
+vernier = 0.00219727
+Source Step = 91.3019%
+Source Step = 91.3685%
+Source Step = 91.4351%
+Source Step = 91.5017%
+Source Step = 91.5683%
+Source Step = 91.6349%
+vernier = 0.0032959
+Source Step = 91.7347%
+Source Step = 91.8346%
+Source Step = 91.9345%
+Source Step = 92.0344%
+Source Step = 92.1342%
+vernier = 0.00494385
+Source Step = 92.2791%
+Source Step = 92.4289%
+Source Step = 92.5787%
+Source Step = 92.7285%
+Source Step = 92.8783%
+vernier = 0.00741577
+Source Step = 93.088%
+Source Step = 93.3128%
+Source Step = 93.5375%
+Source Step = 93.7622%
+Source Step = 93.9869%
+vernier = 0.0111237
+Source Step = 94.2903%
+Source Step = 94.6274%
+Source Step = 94.9645%
+Source Step = 95.3015%
+Source Step = 95.6386%
+vernier = 0.0166855
+Source Step = 96.0768%
+Source Step = 96.5824%
+Source Step = 97.0881%
+Source Step = 97.5937%
+Source Step = 98.0993%
+vernier = 0.0250282
+Source Step = 98.7313%
+Source Step = 99.4898%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 48.4967%
+vernier = 0.000976563
+Source Step = 48.5144%
+Source Step = 48.544%
+Source Step = 48.5736%
+Source Step = 48.6032%
+Source Step = 48.6328%
+vernier = 0.00146484
+Source Step = 48.6728%
+Source Step = 48.7172%
+Source Step = 48.7615%
+Source Step = 48.8059%
+Source Step = 48.8503%
+vernier = 0.00219727
+Source Step = 48.908%
+Source Step = 48.9746%
+Source Step = 49.0412%
+Source Step = 49.1078%
+Source Step = 49.1744%
+vernier = 0.0032959
+Source Step = 49.2576%
+Source Step = 49.3575%
+Source Step = 49.4573%
+Source Step = 49.5572%
+Source Step = 49.6571%
+vernier = 0.00494385
+Source Step = 49.7769%
+Source Step = 49.9268%
+Source Step = 50.0766%
+Source Step = 50.2264%
+Source Step = 50.3762%
+vernier = 0.00741577
+Source Step = 50.5485%
+Source Step = 50.7732%
+Source Step = 50.9979%
+Source Step = 51.2226%
+Source Step = 51.4474%
+vernier = 0.0111237
+Source Step = 51.6946%
+Source Step = 52.0316%
+Source Step = 52.3687%
+Source Step = 52.7058%
+Source Step = 53.0429%
+vernier = 0.0166855
+Source Step = 53.3968%
+Source Step = 53.9024%
+Source Step = 54.4081%
+Source Step = 54.9137%
+Source Step = 55.4193%
+Source Step = 55.9249%
+vernier = 0.0250282
+Source Step = 56.6833%
+Source Step = 57.4418%
+Source Step = 58.2002%
+Source Step = 58.9586%
+Source Step = 59.7171%
+vernier = 0.0375423
+Source Step = 60.8168%
+Source Step = 61.9544%
+Source Step = 63.0921%
+Source Step = 64.2297%
+Source Step = 65.3674%
+vernier = 0.0563135
+Source Step = 66.9601%
+Source Step = 68.6666%
+Source Step = 70.373%
+Source Step = 72.0795%
+Source Step = 73.786%
+vernier = 0.0844703
+Source Step = 76.0897%
+Source Step = 78.6494%
+Source Step = 81.2091%
+Source Step = 83.7688%
+Source Step = 86.3285%
+vernier = 0.126705
+Source Step = 89.6561%
+Source Step = 93.4957%
+Source Step = 97.3353%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 48.4967%
+vernier = 0.000976563
+Source Step = 48.5144%
+Source Step = 48.544%
+Source Step = 48.5736%
+Source Step = 48.6032%
+Source Step = 48.6328%
+vernier = 0.00146484
+Source Step = 48.6713%
+Source Step = 48.7157%
+Source Step = 48.7601%
+Source Step = 48.8045%
+Source Step = 48.8488%
+vernier = 0.00219727
+Source Step = 48.9043%
+Source Step = 48.9709%
+Source Step = 49.0375%
+Source Step = 49.1041%
+Source Step = 49.1707%
+vernier = 0.0032959
+Source Step = 49.2506%
+Source Step = 49.3504%
+Source Step = 49.4503%
+Source Step = 49.5502%
+Source Step = 49.6501%
+vernier = 0.00494385
+Source Step = 49.7649%
+Source Step = 49.9147%
+Source Step = 50.0645%
+Source Step = 50.2144%
+Source Step = 50.3642%
+vernier = 0.00741577
+Source Step = 50.529%
+Source Step = 50.7537%
+Source Step = 50.9784%
+Source Step = 51.2031%
+Source Step = 51.4279%
+vernier = 0.0111237
+Source Step = 51.6638%
+Source Step = 52.0009%
+Source Step = 52.338%
+Source Step = 52.6751%
+Source Step = 53.0121%
+Source Step = 53.3492%
+vernier = 0.0166855
+Source Step = 53.8548%
+Source Step = 54.3605%
+Source Step = 54.8661%
+Source Step = 55.3717%
+Source Step = 55.8773%
+vernier = 0.0250282
+Source Step = 56.6105%
+Source Step = 57.3689%
+Source Step = 58.1273%
+Source Step = 58.8858%
+Source Step = 59.6442%
+vernier = 0.0375423
+Source Step = 60.706%
+Source Step = 61.8436%
+Source Step = 62.9813%
+Source Step = 64.1189%
+Source Step = 65.2566%
+vernier = 0.0563135
+Source Step = 66.7924%
+Source Step = 68.4989%
+Source Step = 70.2053%
+Source Step = 71.9118%
+Source Step = 73.6183%
+vernier = 0.0844703
+Source Step = 75.8367%
+Source Step = 78.3964%
+Source Step = 80.9561%
+Source Step = 83.5158%
+Source Step = 86.0755%
+vernier = 0.126705
+Source Step = 89.2751%
+Source Step = 93.1147%
+Source Step = 96.9543%
+Source Step = 100%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+vernier = 0.00146484
+Source Step = 91.0778%
+Source Step = 91.1222%
+Source Step = 91.1665%
+Source Step = 91.2109%
+Source Step = 91.2553%
+vernier = 0.00219727
+Source Step = 91.3019%
+Source Step = 91.3685%
+Source Step = 91.4351%
+Source Step = 91.5017%
+Source Step = 91.5683%
+Source Step = 91.6349%
+vernier = 0.0032959
+Source Step = 91.7347%
+Source Step = 91.8346%
+Source Step = 91.9345%
+Source Step = 92.0344%
+Source Step = 92.1342%
+vernier = 0.00494385
+Source Step = 92.2791%
+Source Step = 92.4289%
+Source Step = 92.5787%
+Source Step = 92.7285%
+Source Step = 92.8783%
+vernier = 0.00741577
+Source Step = 93.088%
+Source Step = 93.3128%
+Source Step = 93.5375%
+Source Step = 93.7622%
+Source Step = 93.9869%
+vernier = 0.0111237
+Source Step = 94.2903%
+Source Step = 94.6274%
+Source Step = 94.9645%
+Source Step = 95.3015%
+Source Step = 95.6386%
+vernier = 0.0166855
+Source Step = 96.0768%
+Source Step = 96.5824%
+Source Step = 97.0881%
+Source Step = 97.5937%
+Source Step = 98.0993%
+vernier = 0.0250282
+Source Step = 98.7313%
+Source Step = 99.4898%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 45.4575%
+Source Step = 45.4871%
+Source Step = 45.5167%
+Source Step = 45.5463%
+Source Step = 45.5759%
+Source Step = 45.6055%
+vernier = 0.00146484
+Source Step = 45.6469%
+Source Step = 45.6913%
+Source Step = 45.7357%
+Source Step = 45.7801%
+Source Step = 45.8245%
+vernier = 0.00219727
+Source Step = 45.8844%
+Source Step = 45.951%
+Source Step = 46.0175%
+Source Step = 46.0841%
+Source Step = 46.1507%
+vernier = 0.0032959
+Source Step = 46.2373%
+Source Step = 46.3372%
+Source Step = 46.437%
+Source Step = 46.5369%
+Source Step = 46.6368%
+vernier = 0.00494385
+Source Step = 46.7616%
+Source Step = 46.9114%
+Source Step = 47.0612%
+Source Step = 47.2111%
+Source Step = 47.3609%
+vernier = 0.00741577
+Source Step = 47.5407%
+Source Step = 47.7654%
+Source Step = 47.9901%
+Source Step = 48.2148%
+Source Step = 48.4395%
+vernier = 0.0111237
+Source Step = 48.698%
+Source Step = 49.035%
+Source Step = 49.3721%
+Source Step = 49.7092%
+Source Step = 50.0463%
+vernier = 0.0166855
+Source Step = 50.4171%
+Source Step = 50.9227%
+Source Step = 51.4283%
+Source Step = 51.9339%
+Source Step = 52.4396%
+vernier = 0.0250282
+Source Step = 52.9705%
+Source Step = 53.7289%
+Source Step = 54.4873%
+Source Step = 55.2458%
+Source Step = 56.0042%
+Source Step = 56.7626%
+vernier = 0.0375423
+Source Step = 57.9003%
+Source Step = 59.0379%
+Source Step = 60.1756%
+Source Step = 61.3132%
+Source Step = 62.4508%
+vernier = 0.0563135
+Source Step = 64.1004%
+Source Step = 65.8069%
+Source Step = 67.5134%
+Source Step = 69.2198%
+Source Step = 70.9263%
+vernier = 0.0844703
+Source Step = 73.3154%
+Source Step = 75.8751%
+Source Step = 78.4348%
+Source Step = 80.9945%
+Source Step = 83.5542%
+vernier = 0.126705
+Source Step = 87.0098%
+Source Step = 90.8494%
+Source Step = 94.6889%
+Source Step = 98.5285%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 45.4575%
+Source Step = 45.4871%
+Source Step = 45.5167%
+Source Step = 45.5463%
+Source Step = 45.5759%
+Source Step = 45.6055%
+vernier = 0.00146484
+Source Step = 45.6469%
+Source Step = 45.6913%
+Source Step = 45.7357%
+Source Step = 45.7801%
+Source Step = 45.8245%
+vernier = 0.00219727
+Source Step = 45.8844%
+Source Step = 45.951%
+Source Step = 46.0175%
+Source Step = 46.0841%
+Source Step = 46.1507%
+vernier = 0.0032959
+Source Step = 46.2373%
+Source Step = 46.3372%
+Source Step = 46.437%
+Source Step = 46.5369%
+Source Step = 46.6368%
+vernier = 0.00494385
+Source Step = 46.7616%
+Source Step = 46.9114%
+Source Step = 47.0612%
+Source Step = 47.2111%
+Source Step = 47.3609%
+vernier = 0.00741577
+Source Step = 47.5407%
+Source Step = 47.7654%
+Source Step = 47.9901%
+Source Step = 48.2148%
+Source Step = 48.4395%
+vernier = 0.0111237
+Source Step = 48.698%
+Source Step = 49.035%
+Source Step = 49.3721%
+Source Step = 49.7092%
+Source Step = 50.0463%
+vernier = 0.0166855
+Source Step = 50.4171%
+Source Step = 50.9227%
+Source Step = 51.4283%
+Source Step = 51.9339%
+Source Step = 52.4396%
+vernier = 0.0250282
+Source Step = 52.9705%
+Source Step = 53.7289%
+Source Step = 54.4873%
+Source Step = 55.2458%
+Source Step = 56.0042%
+Source Step = 56.7626%
+vernier = 0.0375423
+Source Step = 57.9003%
+Source Step = 59.0379%
+Source Step = 60.1756%
+Source Step = 61.3132%
+Source Step = 62.4508%
+vernier = 0.0563135
+Source Step = 64.1004%
+Source Step = 65.8069%
+Source Step = 67.5134%
+Source Step = 69.2198%
+Source Step = 70.9263%
+vernier = 0.0844703
+Source Step = 73.3154%
+Source Step = 75.8751%
+Source Step = 78.4348%
+Source Step = 80.9945%
+Source Step = 83.5542%
+vernier = 0.126705
+Source Step = 87.0098%
+Source Step = 90.8494%
+Source Step = 94.6889%
+Source Step = 98.5285%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+vernier = 0.00146484
+Source Step = 91.0778%
+Source Step = 91.1222%
+Source Step = 91.1665%
+Source Step = 91.2109%
+Source Step = 91.2553%
+vernier = 0.00219727
+Source Step = 91.3019%
+Source Step = 91.3685%
+Source Step = 91.4351%
+Source Step = 91.5017%
+Source Step = 91.5683%
+Source Step = 91.6349%
+vernier = 0.0032959
+Source Step = 91.7347%
+Source Step = 91.8346%
+Source Step = 91.9345%
+Source Step = 92.0344%
+Source Step = 92.1342%
+vernier = 0.00494385
+Source Step = 92.2791%
+Source Step = 92.4289%
+Source Step = 92.5787%
+Source Step = 92.7285%
+Source Step = 92.8783%
+vernier = 0.00741577
+Source Step = 93.088%
+Source Step = 93.3128%
+Source Step = 93.5375%
+Source Step = 93.7622%
+Source Step = 93.9869%
+vernier = 0.0111237
+Source Step = 94.2903%
+Source Step = 94.6274%
+Source Step = 94.9645%
+Source Step = 95.3015%
+Source Step = 95.6386%
+vernier = 0.0166855
+Source Step = 96.0768%
+Source Step = 96.5824%
+Source Step = 97.0881%
+Source Step = 97.5937%
+Source Step = 98.0993%
+vernier = 0.0250282
+Source Step = 98.7313%
+Source Step = 99.4898%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 42.4302%
+Source Step = 42.4598%
+Source Step = 42.4893%
+Source Step = 42.5189%
+Source Step = 42.5485%
+Source Step = 42.5781%
+vernier = 0.00146484
+Source Step = 42.621%
+Source Step = 42.6654%
+Source Step = 42.7098%
+Source Step = 42.7542%
+Source Step = 42.7986%
+vernier = 0.00219727
+Source Step = 42.8607%
+Source Step = 42.9273%
+Source Step = 42.9939%
+Source Step = 43.0605%
+Source Step = 43.1271%
+vernier = 0.0032959
+Source Step = 43.217%
+Source Step = 43.3168%
+Source Step = 43.4167%
+Source Step = 43.5166%
+Source Step = 43.6165%
+vernier = 0.00494385
+Source Step = 43.7463%
+Source Step = 43.8961%
+Source Step = 44.0459%
+Source Step = 44.1957%
+Source Step = 44.3456%
+vernier = 0.00741577
+Source Step = 44.5328%
+Source Step = 44.7575%
+Source Step = 44.9823%
+Source Step = 45.207%
+Source Step = 45.4317%
+vernier = 0.0111237
+Source Step = 45.7014%
+Source Step = 46.0384%
+Source Step = 46.3755%
+Source Step = 46.7126%
+Source Step = 47.0497%
+vernier = 0.0166855
+Source Step = 47.4373%
+Source Step = 47.943%
+Source Step = 48.4486%
+Source Step = 48.9542%
+Source Step = 49.4598%
+vernier = 0.0250282
+Source Step = 50.016%
+Source Step = 50.7744%
+Source Step = 51.5329%
+Source Step = 52.2913%
+Source Step = 53.0497%
+vernier = 0.0375423
+Source Step = 53.8461%
+Source Step = 54.9837%
+Source Step = 56.1214%
+Source Step = 57.259%
+Source Step = 58.3967%
+Source Step = 59.5343%
+vernier = 0.0563135
+Source Step = 61.2408%
+Source Step = 62.9473%
+Source Step = 64.6537%
+Source Step = 66.3602%
+Source Step = 68.0667%
+vernier = 0.0844703
+Source Step = 70.541%
+Source Step = 73.1007%
+Source Step = 75.6605%
+Source Step = 78.2202%
+Source Step = 80.7799%
+vernier = 0.126705
+Source Step = 84.3635%
+Source Step = 88.203%
+Source Step = 92.0426%
+Source Step = 95.8821%
+Source Step = 99.7217%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 42.4302%
+Source Step = 42.4598%
+Source Step = 42.4893%
+Source Step = 42.5189%
+Source Step = 42.5485%
+Source Step = 42.5781%
+vernier = 0.00146484
+Source Step = 42.6196%
+Source Step = 42.6639%
+Source Step = 42.7083%
+Source Step = 42.7527%
+Source Step = 42.7971%
+vernier = 0.00219727
+Source Step = 42.857%
+Source Step = 42.9236%
+Source Step = 42.9902%
+Source Step = 43.0568%
+Source Step = 43.1234%
+vernier = 0.0032959
+Source Step = 43.2099%
+Source Step = 43.3098%
+Source Step = 43.4097%
+Source Step = 43.5096%
+Source Step = 43.6094%
+vernier = 0.00494385
+Source Step = 43.7343%
+Source Step = 43.8841%
+Source Step = 44.0339%
+Source Step = 44.1837%
+Source Step = 44.3335%
+vernier = 0.00741577
+Source Step = 44.5133%
+Source Step = 44.738%
+Source Step = 44.9628%
+Source Step = 45.1875%
+Source Step = 45.4122%
+vernier = 0.0111237
+Source Step = 45.6706%
+Source Step = 46.0077%
+Source Step = 46.3448%
+Source Step = 46.6819%
+Source Step = 47.0189%
+vernier = 0.0166855
+Source Step = 47.3897%
+Source Step = 47.8954%
+Source Step = 48.401%
+Source Step = 48.9066%
+Source Step = 49.4122%
+vernier = 0.0250282
+Source Step = 49.9431%
+Source Step = 50.7015%
+Source Step = 51.46%
+Source Step = 52.2184%
+Source Step = 52.9768%
+Source Step = 53.7353%
+vernier = 0.0375423
+Source Step = 54.8729%
+Source Step = 56.0106%
+Source Step = 57.1482%
+Source Step = 58.2859%
+Source Step = 59.4235%
+vernier = 0.0563135
+Source Step = 61.0731%
+Source Step = 62.7796%
+Source Step = 64.486%
+Source Step = 66.1925%
+Source Step = 67.899%
+vernier = 0.0844703
+Source Step = 70.288%
+Source Step = 72.8477%
+Source Step = 75.4074%
+Source Step = 77.9671%
+Source Step = 80.5269%
+vernier = 0.126705
+Source Step = 83.9825%
+Source Step = 87.822%
+Source Step = 91.6616%
+Source Step = 95.5011%
+Source Step = 99.3407%
+vernier = 0.190058
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+vernier = 0.00146484
+Source Step = 91.0778%
+Source Step = 91.1222%
+Source Step = 91.1665%
+Source Step = 91.2109%
+Source Step = 91.2553%
+vernier = 0.00219727
+Source Step = 91.3019%
+Source Step = 91.3685%
+Source Step = 91.4351%
+Source Step = 91.5017%
+Source Step = 91.5683%
+Source Step = 91.6349%
+vernier = 0.0032959
+Source Step = 91.7347%
+Source Step = 91.8346%
+Source Step = 91.9345%
+Source Step = 92.0344%
+Source Step = 92.1342%
+vernier = 0.00494385
+Source Step = 92.2791%
+Source Step = 92.4289%
+Source Step = 92.5787%
+Source Step = 92.7285%
+Source Step = 92.8783%
+vernier = 0.00741577
+Source Step = 93.088%
+Source Step = 93.3128%
+Source Step = 93.5375%
+Source Step = 93.7622%
+Source Step = 93.9869%
+vernier = 0.0111237
+Source Step = 94.2903%
+Source Step = 94.6274%
+Source Step = 94.9645%
+Source Step = 95.3015%
+Source Step = 95.6386%
+vernier = 0.0166855
+Source Step = 96.0768%
+Source Step = 96.5824%
+Source Step = 97.0881%
+Source Step = 97.5937%
+Source Step = 98.0993%
+vernier = 0.0250282
+Source Step = 98.7313%
+Source Step = 99.4898%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 39.6307%
+Source Step = 40.1042%
+Source Step = 40.5777%
+Source Step = 41.0511%
+Source Step = 41.5246%
+vernier = 0.0234375
+Source Step = 42.0928%
+Source Step = 42.803%
+Source Step = 43.5133%
+Source Step = 44.2235%
+Source Step = 44.9337%
+vernier = 0.0351563
+Source Step = 45.7505%
+Source Step = 46.8158%
+Source Step = 47.8812%
+Source Step = 48.9465%
+Source Step = 50.0118%
+vernier = 0.0527344
+Source Step = 51.1837%
+Source Step = 52.7817%
+Source Step = 54.3797%
+Source Step = 55.9777%
+Source Step = 57.5758%
+vernier = 0.0791016
+Source Step = 59.2537%
+Source Step = 61.6507%
+Source Step = 64.0477%
+Source Step = 66.4447%
+Source Step = 68.8417%
+Source Step = 71.2388%
+vernier = 0.118652
+Source Step = 74.8343%
+Source Step = 78.4298%
+Source Step = 82.0253%
+Source Step = 85.6209%
+Source Step = 89.2164%
+vernier = 0.177979
+Source Step = 94.4299%
+Source Step = 99.8232%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 39.4028%
+Source Step = 39.4324%
+Source Step = 39.462%
+Source Step = 39.4916%
+Source Step = 39.5212%
+Source Step = 39.5508%
+vernier = 0.00146484
+Source Step = 39.5952%
+Source Step = 39.6396%
+Source Step = 39.6839%
+Source Step = 39.7283%
+Source Step = 39.7727%
+vernier = 0.00219727
+Source Step = 39.8371%
+Source Step = 39.9037%
+Source Step = 39.9703%
+Source Step = 40.0368%
+Source Step = 40.1034%
+vernier = 0.0032959
+Source Step = 40.1966%
+Source Step = 40.2965%
+Source Step = 40.3964%
+Source Step = 40.4963%
+Source Step = 40.5961%
+vernier = 0.00494385
+Source Step = 40.731%
+Source Step = 40.8808%
+Source Step = 41.0306%
+Source Step = 41.1804%
+Source Step = 41.3302%
+vernier = 0.00741577
+Source Step = 41.525%
+Source Step = 41.7497%
+Source Step = 41.9744%
+Source Step = 42.1992%
+Source Step = 42.4239%
+vernier = 0.0111237
+Source Step = 42.7048%
+Source Step = 43.0419%
+Source Step = 43.3789%
+Source Step = 43.716%
+Source Step = 44.0531%
+vernier = 0.0166855
+Source Step = 44.4576%
+Source Step = 44.9632%
+Source Step = 45.4688%
+Source Step = 45.9745%
+Source Step = 46.4801%
+vernier = 0.0250282
+Source Step = 47.0615%
+Source Step = 47.82%
+Source Step = 48.5784%
+Source Step = 49.3368%
+Source Step = 50.0953%
+vernier = 0.0375423
+Source Step = 50.9295%
+Source Step = 52.0672%
+Source Step = 53.2048%
+Source Step = 54.3425%
+Source Step = 55.4801%
+vernier = 0.0563135
+Source Step = 56.6747%
+Source Step = 58.3811%
+Source Step = 60.0876%
+Source Step = 61.7941%
+Source Step = 63.5005%
+Source Step = 65.207%
+vernier = 0.0844703
+Source Step = 67.7667%
+Source Step = 70.3264%
+Source Step = 72.8861%
+Source Step = 75.4458%
+Source Step = 78.0055%
+vernier = 0.126705
+Source Step = 81.7171%
+Source Step = 85.5567%
+Source Step = 89.3962%
+Source Step = 93.2358%
+Source Step = 97.0753%
+vernier = 0.190058
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 40.5303%
+Source Step = 42.4242%
+Source Step = 44.3182%
+Source Step = 46.2121%
+Source Step = 48.1061%
+vernier = 0.09375
+Source Step = 50.4735%
+Source Step = 53.3144%
+Source Step = 56.1553%
+Source Step = 58.9962%
+Source Step = 61.8371%
+vernier = 0.140625
+Source Step = 65.2462%
+Source Step = 69.5076%
+Source Step = 73.7689%
+Source Step = 78.0303%
+Source Step = 82.2917%
+vernier = 0.210938
+Source Step = 87.1922%
+Source Step = 93.5843%
+Source Step = 99.9763%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+vernier = 0.00146484
+Source Step = 91.0778%
+Source Step = 91.1222%
+Source Step = 91.1665%
+Source Step = 91.2109%
+Source Step = 91.2553%
+vernier = 0.00219727
+Source Step = 91.3019%
+Source Step = 91.3685%
+Source Step = 91.4351%
+Source Step = 91.5017%
+Source Step = 91.5683%
+Source Step = 91.6349%
+vernier = 0.0032959
+Source Step = 91.7347%
+Source Step = 91.8346%
+Source Step = 91.9345%
+Source Step = 92.0344%
+Source Step = 92.1342%
+vernier = 0.00494385
+Source Step = 92.2791%
+Source Step = 92.4289%
+Source Step = 92.5787%
+Source Step = 92.7285%
+Source Step = 92.8783%
+vernier = 0.00741577
+Source Step = 93.088%
+Source Step = 93.3128%
+Source Step = 93.5375%
+Source Step = 93.7622%
+Source Step = 93.9869%
+vernier = 0.0111237
+Source Step = 94.2903%
+Source Step = 94.6274%
+Source Step = 94.9645%
+Source Step = 95.3015%
+Source Step = 95.6386%
+vernier = 0.0166855
+Source Step = 96.0768%
+Source Step = 96.5824%
+Source Step = 97.0881%
+Source Step = 97.5937%
+Source Step = 98.0993%
+vernier = 0.0250282
+Source Step = 98.7313%
+Source Step = 99.4898%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+vernier = 0.00146484
+Source Step = 91.0778%
+Source Step = 91.1222%
+Source Step = 91.1665%
+Source Step = 91.2109%
+Source Step = 91.2553%
+vernier = 0.00219727
+Source Step = 91.3019%
+Source Step = 91.3685%
+Source Step = 91.4351%
+Source Step = 91.5017%
+Source Step = 91.5683%
+Source Step = 91.6349%
+vernier = 0.0032959
+Source Step = 91.7347%
+Source Step = 91.8346%
+Source Step = 91.9345%
+Source Step = 92.0344%
+Source Step = 92.1342%
+vernier = 0.00494385
+Source Step = 92.2791%
+Source Step = 92.4289%
+Source Step = 92.5787%
+Source Step = 92.7285%
+Source Step = 92.8783%
+vernier = 0.00741577
+Source Step = 93.088%
+Source Step = 93.3128%
+Source Step = 93.5375%
+Source Step = 93.7622%
+Source Step = 93.9869%
+vernier = 0.0111237
+Source Step = 94.2903%
+Source Step = 94.6274%
+Source Step = 94.9645%
+Source Step = 95.3015%
+Source Step = 95.6386%
+vernier = 0.0166855
+Source Step = 96.0768%
+Source Step = 96.5824%
+Source Step = 97.0881%
+Source Step = 97.5937%
+Source Step = 98.0993%
+vernier = 0.0250282
+Source Step = 98.7313%
+Source Step = 99.4898%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 36.3755%
+Source Step = 36.4051%
+Source Step = 36.4347%
+Source Step = 36.4643%
+Source Step = 36.4938%
+vernier = 0.00146484
+Source Step = 36.5249%
+Source Step = 36.5693%
+Source Step = 36.6137%
+Source Step = 36.6581%
+Source Step = 36.7025%
+Source Step = 36.7469%
+vernier = 0.00219727
+Source Step = 36.8134%
+Source Step = 36.88%
+Source Step = 36.9466%
+Source Step = 37.0132%
+Source Step = 37.0798%
+vernier = 0.0032959
+Source Step = 37.1763%
+Source Step = 37.2762%
+Source Step = 37.3761%
+Source Step = 37.476%
+Source Step = 37.5758%
+vernier = 0.00494385
+Source Step = 37.7157%
+Source Step = 37.8655%
+Source Step = 38.0153%
+Source Step = 38.1651%
+Source Step = 38.3149%
+vernier = 0.00741577
+Source Step = 38.5172%
+Source Step = 38.7419%
+Source Step = 38.9666%
+Source Step = 39.1913%
+Source Step = 39.416%
+vernier = 0.0111237
+Source Step = 39.7082%
+Source Step = 40.0453%
+Source Step = 40.3823%
+Source Step = 40.7194%
+Source Step = 41.0565%
+vernier = 0.0166855
+Source Step = 41.4779%
+Source Step = 41.9835%
+Source Step = 42.4891%
+Source Step = 42.9947%
+Source Step = 43.5003%
+vernier = 0.0250282
+Source Step = 44.1071%
+Source Step = 44.8655%
+Source Step = 45.6239%
+Source Step = 46.3824%
+Source Step = 47.1408%
+vernier = 0.0375423
+Source Step = 48.013%
+Source Step = 49.1506%
+Source Step = 50.2883%
+Source Step = 51.4259%
+Source Step = 52.5636%
+vernier = 0.0563135
+Source Step = 53.815%
+Source Step = 55.5215%
+Source Step = 57.2279%
+Source Step = 58.9344%
+Source Step = 60.6409%
+vernier = 0.0844703
+Source Step = 62.4327%
+Source Step = 64.9924%
+Source Step = 67.5521%
+Source Step = 70.1118%
+Source Step = 72.6715%
+Source Step = 75.2312%
+vernier = 0.126705
+Source Step = 79.0708%
+Source Step = 82.9103%
+Source Step = 86.7499%
+Source Step = 90.5894%
+Source Step = 94.429%
+vernier = 0.190058
+Source Step = 99.9963%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 36.6477%
+Source Step = 37.1212%
+Source Step = 37.5947%
+Source Step = 38.0682%
+Source Step = 38.5417%
+vernier = 0.0234375
+Source Step = 39.1335%
+Source Step = 39.8438%
+Source Step = 40.554%
+Source Step = 41.2642%
+Source Step = 41.9744%
+vernier = 0.0351563
+Source Step = 42.8267%
+Source Step = 43.892%
+Source Step = 44.9574%
+Source Step = 46.0227%
+Source Step = 47.0881%
+vernier = 0.0527344
+Source Step = 48.3132%
+Source Step = 49.9112%
+Source Step = 51.5092%
+Source Step = 53.1072%
+Source Step = 54.7053%
+vernier = 0.0791016
+Source Step = 56.4631%
+Source Step = 58.8601%
+Source Step = 61.2571%
+Source Step = 63.6541%
+Source Step = 66.0511%
+vernier = 0.118652
+Source Step = 68.568%
+Source Step = 72.1635%
+Source Step = 75.7591%
+Source Step = 79.3546%
+Source Step = 82.9501%
+Source Step = 86.5456%
+vernier = 0.177979
+Source Step = 91.9389%
+Source Step = 97.3322%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 36.3755%
+Source Step = 36.4051%
+Source Step = 36.4347%
+Source Step = 36.4643%
+Source Step = 36.4938%
+vernier = 0.00146484
+Source Step = 36.5249%
+Source Step = 36.5693%
+Source Step = 36.6137%
+Source Step = 36.6581%
+Source Step = 36.7025%
+Source Step = 36.7469%
+vernier = 0.00219727
+Source Step = 36.8134%
+Source Step = 36.88%
+Source Step = 36.9466%
+Source Step = 37.0132%
+Source Step = 37.0798%
+vernier = 0.0032959
+Source Step = 37.1763%
+Source Step = 37.2762%
+Source Step = 37.3761%
+Source Step = 37.476%
+Source Step = 37.5758%
+vernier = 0.00494385
+Source Step = 37.7157%
+Source Step = 37.8655%
+Source Step = 38.0153%
+Source Step = 38.1651%
+Source Step = 38.3149%
+vernier = 0.00741577
+Source Step = 38.5172%
+Source Step = 38.7419%
+Source Step = 38.9666%
+Source Step = 39.1913%
+Source Step = 39.416%
+vernier = 0.0111237
+Source Step = 39.7082%
+Source Step = 40.0453%
+Source Step = 40.3823%
+Source Step = 40.7194%
+Source Step = 41.0565%
+vernier = 0.0166855
+Source Step = 41.4779%
+Source Step = 41.9835%
+Source Step = 42.4891%
+Source Step = 42.9947%
+Source Step = 43.5003%
+vernier = 0.0250282
+Source Step = 44.1071%
+Source Step = 44.8655%
+Source Step = 45.6239%
+Source Step = 46.3824%
+Source Step = 47.1408%
+vernier = 0.0375423
+Source Step = 48.013%
+Source Step = 49.1506%
+Source Step = 50.2883%
+Source Step = 51.4259%
+Source Step = 52.5636%
+vernier = 0.0563135
+Source Step = 53.815%
+Source Step = 55.5215%
+Source Step = 57.2279%
+Source Step = 58.9344%
+Source Step = 60.6409%
+vernier = 0.0844703
+Source Step = 62.4327%
+Source Step = 64.9924%
+Source Step = 67.5521%
+Source Step = 70.1118%
+Source Step = 72.6715%
+Source Step = 75.2312%
+vernier = 0.126705
+Source Step = 79.0708%
+Source Step = 82.9103%
+Source Step = 86.7499%
+Source Step = 90.5894%
+Source Step = 94.429%
+vernier = 0.190058
+Source Step = 99.9963%
+Source stepping succeeded in finding the operating point.
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Increasing initial diagonal Gmin to 100000
+Increasing initial diagonal Gmin to 1e+006
+Initial Gmin=1e+006 failed
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+vernier = 0.25
+Source Step = 90.9268%
+Source Step = 90.9564%
+Source Step = 90.986%
+Source Step = 91.0156%
+Source Step = 91.0452%
+vernier = 0.00146484
+Source Step = 91.0778%
+Source Step = 91.1222%
+Source Step = 91.1665%
+Source Step = 91.2109%
+Source Step = 91.2553%
+vernier = 0.00219727
+Source Step = 91.3019%
+Source Step = 91.3685%
+Source Step = 91.4351%
+Source Step = 91.5017%
+Source Step = 91.5683%
+Source Step = 91.6349%
+vernier = 0.0032959
+Source Step = 91.7347%
+Source Step = 91.8346%
+Source Step = 91.9345%
+Source Step = 92.0344%
+Source Step = 92.1342%
+vernier = 0.00494385
+Source Step = 92.2791%
+Source Step = 92.4289%
+Source Step = 92.5787%
+Source Step = 92.7285%
+Source Step = 92.8783%
+vernier = 0.00741577
+Source Step = 93.088%
+Source Step = 93.3128%
+Source Step = 93.5375%
+Source Step = 93.7622%
+Source Step = 93.9869%
+vernier = 0.0111237
+Source Step = 94.2903%
+Source Step = 94.6274%
+Source Step = 94.9645%
+Source Step = 95.3015%
+Source Step = 95.6386%
+vernier = 0.0166855
+Source Step = 96.0768%
+Source Step = 96.5824%
+Source Step = 97.0881%
+Source Step = 97.5937%
+Source Step = 98.0993%
+vernier = 0.0250282
+Source Step = 98.7313%
+Source Step = 99.4898%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Sun Oct 13 23:02:28 2019
+Total elapsed time: 4.257 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 183102
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 76
+fillins = 225
+solver = Normal
+Matrix Compiler1:    1072 opcodes  4.4/[3.7]/346.8
+Matrix Compiler2: off  [2.4]/2.5/83.4
+
